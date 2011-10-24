@@ -1,0 +1,43 @@
+10
+
+dir
+73
+svn+ssh://yannis@fixl.info/sept/trunk/SEPT_Assignment1/src
+svn+ssh://yannis@fixl.info/sept
+
+
+
+2011-03-24T15:01:35.610339Z
+73
+stefan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4c445005-85f6-48c6-aa8c-9a8a7e1e4886
+
+application
+dir
+
+datatypes
+dir
+
+factory
+dir
+
+test
+dir
+
+xml
+dir
+

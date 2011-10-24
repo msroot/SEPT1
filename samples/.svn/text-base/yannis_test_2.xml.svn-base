@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="1000" height="1000" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<rect width="30" height="10" />
+
+  <g id="group1">
+    <rect x="1pc" y="1pt" fill="red" width="1cm" height="1cm"/>
+    <circle cx="6cm" cy="1in" r="20" stroke="none" />
+    <line x1="6cm" y1="1in" x2="20" y2="30" stroke="" stroke-width="-7px"/>
+	  <g id="group2">
+	  		<g id="group3">
+			<rect x="3cm" y="3cm" width="1cm" height="1cm" fill="rgb(138, 43, 226)"/>
+			<circle cx="5cm" cy="7cm" r="1cm" fill="none"/>
+				<g id="group4">
+						<circle cx="15" cy="7" r="1" fill="1"/>
+					
+					<g id="group5">
+						<g id="group4">
+							
+								<circle cx="4cm" cy="4cm" r="14cm" fill="none" stroke="11"/>
+								<line x1="10px" y1="40px" x2="10" y2="10" stroke="rgb(255, 228, 596)" stroke-width="40px"/>
+									<circle cx="45cm" cy="54cm" r="13cm" fill="tomato" stroke="30"/>
+									<line x1="10px" y1="0px" x2="1000" y2="4" stroke="rgb(252, 228, 196)" stroke-width="1px"/>
+									
+		  </g> </g> </g> </g>
+	  
+		<rect x="2cm" y="2cm" width="1cm" height="1cm" fill="turquoise"/>
+		
+		<circle cx="4cm" cy="5cm" r="1cm" fill="blue" stroke="1"/>
+		<line x1="0px" y1="0px" x2="1000" y2="1000" stroke="rgb(255, 228, 196)" stroke-width="4px"/>
+		  
+		<circle r="20" cx="4in" cy="3pc" fill="navy" stroke-width="3" ></circle>
+	  </g>
+  </g>
+  <pattern></pattern>
+</svg>

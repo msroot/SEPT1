@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="1000" height="1000" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<rect width="-11" height="+22" ></rect>
+
+  <g id="group_r">
+    <rect x="_" y="none" fill="some_colour" width="_=" height="x"/>
+    <circle cx="_6cm" cy="1in" r="blue" stroke='\"' />
+    <line x1="6cm" y1="1in" x2="20" y2="30" stroke="lime" stroke-width="7px"/>
+	  <g id="group2">
+	  		<g id="group3 -">
+			<rect x="3cm" y="3cm" width="1cm" height="1cm" fill="rgb(138, 43, 226)"/>
+			<circle cx="5cm" cy="7cm" r="1cm" fill="lime"/>
+		  </g>
+	  
+		<rect x="2cm" y="2cm" width="1cm" height="1cm" fill="turquoise"/>
+		<circle cx="m" cy="5cm" r="1cm" fill="blue" stroke="pink"/>
+		<line x1="m0px" y1="0px" x2="1000" y2="1000" stroke="rgb(255, 228, 196,blue)" stroke-width="4px"/>
+		  
+		<circle r="20" cx="4in" cy="3pc" fill="bluee" stroke-width="stroke" ></circle>
+	  </g>
+  </g>
+  <pattern></pattern>
+</svg>

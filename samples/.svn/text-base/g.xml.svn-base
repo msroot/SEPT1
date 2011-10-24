@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="200" height="200" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="100" />
+
+  <g id="group1" fill="red">
+    <rect x="1cm" y="1cm" fill="red" width="1cm" height="1cm"/>
+    <circle cx="3cm" cy="1cm" r="1cm" fill="red"/>
+	  <g id="group2" fill="blue">
+		<rect x="2cm" y="2cm" width="1cm" height="1cm" fill="blue"/>
+		<circle cx="4cm" cy="5cm" r="1cm" fill="blue"/>
+		  <g id="group3" fill="lime">
+			<rect x="3cm" y="3cm" width="1cm" height="1cm" fill="lime"/>
+			<circle cx="5cm" cy="7cm" r="1cm" fill="lime"/>
+		  </g>
+	  </g>
+  </g>
+</svg>
